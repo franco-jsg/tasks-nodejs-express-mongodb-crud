@@ -1,0 +1,11 @@
+#environment variables
+.env
+
+#node dependencies
+node_modules
+
+#build folder
+dist
+
+#notes
+CRUD (NODE EXPRESS MONGO) .docx
